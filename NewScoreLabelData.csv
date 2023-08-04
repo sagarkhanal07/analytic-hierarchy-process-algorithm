@@ -1,0 +1,89 @@
+,ID,Doctor Name,Degree,Experience
+0,94,Dr. Ukesh Prajapati,"['MD', 'MBBS']",6
+1,98,Dr. Sudip Shrestha,"['MBBS', 'MD']",8
+2,100,Dr. Roshan Prajapati,"['MD', 'IMA', 'MBBS']",6
+3,103,Dr. Raju P. Pangeni,"['MBBS', 'MD']",3
+4,104,Dr. Asmitananda Thakur,"['MD', 'MBBS']",4
+5,105,Dr. Rakshya Pandey,"['MBBS', 'MD']",6
+6,93,Dr. Sameer Thapa,"['MD', 'MSc']",5
+7,99,Dr. Rajendra Prasad Baral,"['MBBS', 'DMRT', 'PhD']",7
+8,95,Dr. Suraj Gyawali,"['MBBS', 'MD']",7
+9,91,Dr. Ajay Singh Thapa,['MSc'],5
+10,17,"Dr. Sanjay Bikram Shrestha","['MBBS', 'MSc']",7
+11,68,Dr. Sagar Mani Jha,"['MD', 'MBBS']",4
+12,70,Dr. Sudip Parajuli,"['MBBS', 'MD']",6
+13,72,Dr. Amrit Acharya,"['MBBS', 'MD']",8
+14,74,Dr. Badri Prasad Badhu,['MD'],8
+15,77,Dr. Harish Joshi,"['BDS', 'MPH']",5
+16,80,Dr. Siddharth Ghimire,"['BDS', 'MD']",3
+17,84,Dr. Priyanka Gupta,"['MSc', 'MBBS']",5
+18,86,Dr. Jyoti Agarwal,"['MBBS', 'MD']",8
+19,87,Dr. Sanu Maiya Shrestha,"['MD', 'DGO', 'MSc', 'MSurg']",9
+20,85,Prof. Dr. Rajendra Prasad Sharma Guragain,"['MBBS', 'DLO', 'MSurg']",6
+21,78,Dr. Deepa Kunwar,"['MD', 'BDS']",4
+22,79,Dr. Ashish Timilsina,"['BDS', 'MSc']",3
+23,73,Dr. Purnima Rajkarnikar,"['MD', 'MBBS']",9
+24,69,Dr. Bijay Shrestha,"['MBBS', 'MD']",5
+25,92,Dr. Bishwa Raj Dawadi,"['MSc', 'MBBS']",4
+26,90,Dr. Pradeep Vaidya,['MBBS'],6
+27,96,Dr. Subhas Pandit,"['MD', 'MBBS']",6
+28,101,Dr. Ashes Dhungana,['MD'],5
+29,102,Dr. Milesh Jung Sijapati,"['MD', 'MBBS']",4
+30,97,Dr. Pradip Bhandari,['MD'],7
+31,76,Dr. Sudeep Acharya,"['BDS', 'MD']",6
+32,53,Dr. Umid Kumar Shrestha,"['MBBS', 'MD', 'PhD']",6
+33,55,Dr. Rabin Sharma,"['MD', 'MBBS']",4
+34,71,Dr. Irina Kansakar (Tuladhar),['MD'],7
+35,82,Dr. Dipendra Gautam,"['MBBS', 'MSc']",4
+36,88,Dr. Usha Shrestha(Khand),"['MD', 'MSc']",8
+37,89,Dr. Sunil Kumar Sharma,"['MBBS', 'MSurg']",7
+38,75,Dr. Shakti Prasad Subedi,"['MD', 'MSc']",7
+39,56,Prof. Dr. Sudhamshu K.C,"['MBBS', 'PhD']",3
+40,57,Dr. Pratap Sagar Tiwari,['MD'],2
+41,58,Dr. Jaswan Shakya,"['MSc', 'MSurg']",7
+42,59,Dr. Sushil Dhungel,"['MBBS', 'MSc']",8
+43,60,Dr. Niraj Kumar Shah,"['MBBS', 'MSc', 'MSurg']",9
+44,66,Prof. Dr. Anil Kr Jha,['MD'],2
+45,67,"Dr. Mahesh Shah,","['MBBS', 'DD', 'MD']",3
+46,54,Dr. Kamal Koirala,"['MBBS', 'MSc', 'PhD']",5
+47,1,Prof. Dr. Ramnandan P. Chaudhary,"['MBBS', 'MSc', 'MSurg']",1
+48,2,Dr. Amit Kumar Shah,"['MBBS', 'MSc']",2
+49,4,Dr. Sushil Dhungel,"['MBBS', 'MSc']",3
+50,14,Prof. Dr. Guna Kumar Shrestha,"['MBBS', 'MD', 'MSurg']",4
+51,15,"Dr. Anil Shrestha","['MBBS', 'MSc', 'MSurg']",5
+52,16,Dr. Amit Mani Upadhyay,"['MBBS', 'MD']",6
+53,18,Dr. Krishna Kaji Bhomi,"['MBBS', 'MSc']",9
+54,19,Dr. Arjun Dev Bhatta,"['MD', 'PhD', 'DSc', 'MSurg']",8
+55,20,Dr. Sanjay Khadgi,"['MD', 'MSc']",7
+56,21,Dr. Asarfi Shah,"['MBBS', 'MSc', 'MSurg']",6
+57,22,Prof. Dr. Jagadish Lal Baidya,"['MD']",5
+58,23,Dr. Bharat Bahadur Bhandari,"['MSc','MSurg']",4
+59,24,Prof. Dr. Uttam Sharma,"['MBBS', 'MSc', 'MSurg']",3
+60,25,Dr. Subodh Kumar Regmi,"['MBBS', 'MSc']",2
+61,26,Dr. keshav singh,"['MSc', 'MBBS']",1
+62,27,Dr. Laxmi Awa,['MD'],2
+63,28,Dr. Bishesh Poudyal,"['MBBS', 'MD']",3
+64,29,Prof Arun Maskey,"['MBBS', 'MD']",4
+65,30,Prof. Dr. Dilip Sharma,"['MBBS', 'MD']",5
+66,31,Dr. Ansu Mali Joshi,"['MBBS', 'MD']",6
+67,32,Dr. Manisha Mishra,"['MBBS', 'MD']",7
+68,33,Dr. Alark Devkota Rajouria,"['MBBS', 'MD']",8
+69,34,Dr. Deependra Karki,"['MBBS', 'MD']",9
+70,35,Dr. Tirtha Lal Upadhyaya,"['MD', 'MBBS']",8
+71,36,Prof. Dr. Dhana Ratna Shakya,"['MD', 'MBBS']",7
+72,37,Dr. Ritesh Thapa,"['MD', 'MBBS']",6
+73,38,Dr. Subodh Dahal,['MD'],5
+74,39,Dr. Sikhar Bahadur Swar,"['MBBS', 'MD', 'MSurg']",4
+75,40,Dr. Ranjan Thapa,"['MBBS', 'MD']",3
+76,41,Dr. Pankaj Jalan,['MBBS'],2
+77,42,Dr. Gopal Sedain,"['MBBS', 'MSc', 'MSurg']",1
+78,43,Dr. Yam Bahadur Roka,"['MBBS', 'MSc', 'MSurg']",2
+79,44,Dr Lokman Bhatta,"['MBBS', 'MSc']",4
+80,45,Dr. Prakash Kafle,"['MSc', 'MSurg']",4
+81,46,Dr. Binit Vaidya,['MBBS'],5
+82,47,Dr. Binaya Kumar Regmi,"['MBBS', 'MSc', 'MD']",6
+83,48,Dr. Arun Kumar Gupta,"['MBBS', 'MSc']",7
+84,49,Dr. Deepa Shah,"['MBBS', 'MD']",8
+85,50,Dr. Keshav Raj Sigdel,"['MBBS', 'MD']",9
+86,51,Dr. Subash Bhattarai,['MD'],8
+87,52,Dr. Akhilesh Kasyap,"['MD', 'MBBS', 'MD']",7
